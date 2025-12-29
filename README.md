@@ -8,10 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_LINK" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=eduardofbatista&style=for-the-badge" alt="profile views" />
+  <a href="https://linkedin.com/eduardo-faria-84b5b92a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/SEU_USER" target="_blank">
+  <a href="https://instagram.com/edufaria_batista" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
   </a>
 </p>
